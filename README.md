@@ -8,7 +8,7 @@ pools. Each Pool object composes a Temperature and a Location. Your program must
 simulate a maintenance crew that visits all pools starting from (0, 0), always moving to
 the nearest unvisited pool (greedy routing), and sets pool temperatures within the range
 98°F to 104°F.
-<img width="812" height="538" alt="image" src="https://imgur.com/NeviipG)" />
+<img width="812" height="538" alt="image" src="https://i.imgur.com/NeviipG.png)" />
 
 # Implement the following behaviors and constraints:
 
