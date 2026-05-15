@@ -1,14 +1,16 @@
 # ECE-2310-Final-Project
 Repository for storing files for my ECE2310 Pool Cleaning project
 
--- Overview --
+# -- Overview --
+
 Design and implement a C# program that models a community with seven swimming
 pools. Each Pool object composes a Temperature and a Location. Your program must
 simulate a maintenance crew that visits all pools starting from (0, 0), always moving to
 the nearest unvisited pool (greedy routing), and sets pool temperatures within the range
 98°F to 104°F. https://imgur.com/NeviipG (image link for coordinate grid reference)
 
-Implement the following behaviors and constraints:
+# Implement the following behaviors and constraints:
+
 • Create three classes: Pool, Temperature, and Location.
 • Pool has-a Temperature and has-a Location (composition).
 • Temperature has: degree (numeric) and scale (e.g., 'F').
