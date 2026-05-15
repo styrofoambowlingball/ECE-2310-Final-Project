@@ -7,7 +7,8 @@ Design and implement a C# program that models a community with seven swimming
 pools. Each Pool object composes a Temperature and a Location. Your program must
 simulate a maintenance crew that visits all pools starting from (0, 0), always moving to
 the nearest unvisited pool (greedy routing), and sets pool temperatures within the range
-98°F to 104°F. https://imgur.com/NeviipG (image link for coordinate grid reference)
+98°F to 104°F.
+<img width="812" height="538" alt="image" src="https://imgur.com/NeviipG)" />
 
 # Implement the following behaviors and constraints:
 
